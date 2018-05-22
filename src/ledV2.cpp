@@ -1,9 +1,6 @@
 #include <Arduino.h>
 #include <IRremote.h>
 
-
-// E0E0F00F Белый
-
 class RGBLed
 {
   public:
