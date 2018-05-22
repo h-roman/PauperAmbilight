@@ -1,10 +1,6 @@
 #include <Arduino.h>
 #include <IRremote.h>
 
-// лево E0E0A659
-// право E0E046B9
-// вверх E0E006F9
-// вниз E0E08679
 
 // E0E0F00F Белый
 
